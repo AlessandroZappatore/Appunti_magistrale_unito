@@ -1,6 +1,6 @@
-# Appunti Apprendimento Automatico anno accademico 2025/26
+# 🧠 Appunti Apprendimento Automatico (A.A. 2025/26) 📈
 
-## ⚠️ Appunti in fase di scrittura
+## Status: 🏗️ In aggiornamento
 
 1. ✅ Introduction
 2. 🏗️ Model Selection and Evaluation

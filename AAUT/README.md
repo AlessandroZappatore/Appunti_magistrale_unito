@@ -3,7 +3,7 @@
 ## Status: 🏗️ In aggiornamento
 
 1. ✅ Introduction
-2. 🏗️ Model Selection and Evaluation
+2. ✅ Model Selection and Evaluation
 3. ❌ Linear Models
 4. ❌ Decision Trees
 5. ❌ Neural Networks

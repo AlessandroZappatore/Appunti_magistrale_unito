@@ -22,3 +22,8 @@
 👨‍🏫 = Appunti integrati con le lezioni
 
 📄 = Appunti tradotti dalle slide
+
+## 💻 Esercizi di Laboratorio
+
+Gli esercizi di laboratorio per questo corso sono disponibili nella seguente repository:
+[AlessandroZappatore/AAUT_exercises](https://github.com/AlessandroZappatore/AAUT_exercises)

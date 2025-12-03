@@ -15,7 +15,7 @@
 | 9  | Clustering                                   | ❌  | ✅ |
 | 10 | Dimensionality Reduction and Metric Learning | ❌  | ✅ |
 | 11 | Feature Selection and Sparse Learning        | ❌  | ✅ |
-| 12 | Computational Learning Theory                | ❌  | ❌ |
+| 12 | Computational Learning Theory                | ❌  | ✅ |
 | 13 | Semi Supervised Learning                     | ❌  | ❌ |
 | 14 | Rule Learning                                | ❌  | ❌ |
 

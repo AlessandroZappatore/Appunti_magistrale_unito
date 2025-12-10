@@ -2,11 +2,11 @@
 
 ## Status: 🏗️ In aggiornamento
 
-|Nr.    | Titolo                                       | 👨‍🏫 | 📄 |
-|----|----------------------------------------------|----|---|
+|Nr. | Titolo                                       | 👨‍🏫 | 📄 |
+|----|----------------------------------------------|-----|---  |
 | 1  | Introduction                                 | ✅  | ✅ |
 | 2  | Model Selection and Evaluation               | ✅  | ✅ |
-| 3  | Linear Models                                | ❌  | ✅ |
+| 3  | Linear Models                                | ✅  | ✅ |
 | 4  | Decision Trees                               | ❌  | ✅ |
 | 5  | Neural Networks                              | ❌  | ✅ |
 | 6  | Support Vector Machines                      | ❌  | ✅ |
@@ -16,7 +16,7 @@
 | 10 | Dimensionality Reduction and Metric Learning | ❌  | ✅ |
 | 11 | Feature Selection and Sparse Learning        | ❌  | ✅ |
 | 12 | Computational Learning Theory                | ❌  | ✅ |
-| 13 | Semi Supervised Learning                     | ❌  | ❌ |
+| 13 | Semi Supervised Learning                     | ❌  | ✅ |
 | 14 | Rule Learning                                | ❌  | ❌ |
 
 👨‍🏫 = Appunti integrati con le lezioni

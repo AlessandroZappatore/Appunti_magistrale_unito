@@ -3,3 +3,4 @@
 Appunti teorici e pratici che ho utilizzato per superare gli esami della laurea magistrale in informatica presso l'Università degli studi di Torino. 📘🎓
 
 1. 🧠📈 Apprendimento Automatico (AAUT)
+2. 🧩🏢 Modellazione di Processi Aziendali (MDPA)

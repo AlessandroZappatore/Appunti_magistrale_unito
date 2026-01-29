@@ -2,8 +2,8 @@
 
 ## Status: 🏗️ In aggiornamento
 
-|Nr. | Titolo                                       | 👨‍🏫 | 📄 |
-|----|----------------------------------------------|-----|---  |
+|Nr. | Titolo                                       | 👨‍🏫  | 📄 |
+|----|----------------------------------------------|-----|----|
 | 1  | Introduction                                 | ✅  | ✅ |
 | 2  | Model Selection and Evaluation               | ✅  | ✅ |
 | 3  | Linear Models                                | ✅  | ✅ |

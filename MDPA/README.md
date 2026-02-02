@@ -1,4 +1,4 @@
-# 🧩 Domande orale MDPA 🏢
+# 🧩 Esame MDPA 🏢
 
 Raccolta di domande emerse in appelli passati, con risposte di supporto allo studio.
 
@@ -6,6 +6,7 @@ Raccolta di domande emerse in appelli passati, con risposte di supporto allo stu
 
 - Domande orale ricorrenti 🗣️
 - Risposte sintetiche per ripasso rapido ✍️
+- Esercizi svolti del corso disponibili nel file `Esercizi MDPA.pdf` 📝
 
 ## Disclaimer ⚠️
 

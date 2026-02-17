@@ -4,3 +4,5 @@ Appunti teorici e pratici che ho utilizzato per superare gli esami della laurea 
 
 1. 🧠📈 Apprendimento Automatico (AAUT)
 2. 🧩🏢 Modellazione di Processi Aziendali (MDPA)
+3. Modelli e Architetture Avanzati di Basi di Dati
+4. Basi di Dati Multimediali

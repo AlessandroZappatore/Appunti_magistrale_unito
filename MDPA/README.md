@@ -1,15 +1,22 @@
-# 🧩 Esame MDPA 🏢
+# 🧩 Esame MDPA
 
-Raccolta di domande emerse in appelli passati, con risposte di supporto allo studio.
+Raccolta di domande emerse negli appelli passati, completa di risposte per supportare la preparazione e il ripasso.
 
-## Contenuto 📌
+---
 
-- Domande orale ricorrenti 🗣️
-- Risposte sintetiche per ripasso rapido ✍️
-- Esercizi svolti del corso disponibili nel file `Esercizi MDPA.pdf` 📝
+## 📌 Contenuto
 
-## Disclaimer ⚠️
+* 🗣️ **Domande orali ricorrenti**
+    Selezione dei quesiti teorici più frequenti durante i colloqui.
+* ✍️ **Risposte sintetiche**
+    Concetti chiave riassunti per agevolare un ripasso rapido ed efficace.
+* 📝 **`Esercizi MDPA.pdf`**
+    Documento contenente tutti gli esercizi svolti del corso.
 
-Le risposte sono state generate con [NotebookLM](https://notebooklm.google.com/) usando come fonti le slide del corso e gli appunti di *Bruni Christian*. Potrebbero contenere imprecisioni: verifica sempre con il materiale ufficiale.
+## ⚠️ Disclaimer
+
+Le risposte presenti in questo documento sono state generate tramite **[NotebookLM](https://notebooklm.google.com/)**, utilizzando come *knowledge base* le slide ufficiali del corso e gli appunti di *Bruni Christian*. 
+
+> **Nota bene:** Essendo generate da un'intelligenza artificiale, le risposte potrebbero contenere imprecisioni. Si consiglia vivamente di verificare sempre la correttezza delle informazioni confrontandole con il materiale didattico ufficiale.
 
 Buono studio! 🚀

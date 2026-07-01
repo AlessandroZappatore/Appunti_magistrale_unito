@@ -10,3 +10,5 @@ Questa repository contiene il materiale didattico del corso, revisionato e strut
 
 * 📄 **Appunti delle lezioni**
     Raccolta completa degli appunti presi a lezione, accuratamente rielaborati per renderli più scorrevoli, chiari e corretti.
+* 🧮 **`formulario_BDM.pdf`**
+    Un documento riassuntivo contenente la raccolta di tutte le formule principali affrontate durante il corso, ideale per la preparazione e il ripasso.

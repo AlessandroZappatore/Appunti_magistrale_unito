@@ -1,9 +1,16 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlessandroZappatore.Appunti_magistrale_unito)
-# 📚 Appunti magistrale in Informatica, Università degli studi di Torino
 
-Appunti teorici e pratici che ho utilizzato per superare gli esami della laurea magistrale in informatica presso l'Università degli studi di Torino. 📘🎓
+# 📚 Appunti Magistrale in Informatica (UNITO)
 
-1. 🧠📈 Apprendimento Automatico (AAUT)
-2. 🧩🏢 Modellazione di Processi Aziendali (MDPA)
-3. Modelli e Architetture Avanzati di Basi di Dati
-4. Basi di Dati Multimediali
+Appunti teorici e pratici che ho utilizzato per superare gli esami della Laurea Magistrale in Informatica presso l'Università degli Studi di Torino. 📘🎓
+
+---
+
+## 🗂️ Elenco dei Corsi
+
+Di seguito l'elenco degli insegnamenti documentati in questa repository:
+
+* 🧠 **Apprendimento Automatico (AAUT)**
+* 🧩 **Modellazione di Processi Aziendali (MDPA)**
+* 🗄️ **Modelli e Architetture Avanzati di Basi di Dati**
+* 💽 **Basi di Dati Multimediali**

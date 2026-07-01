@@ -1,29 +1,18 @@
-# 🧠 Appunti Apprendimento Automatico (A.A. 2025/26) 📈
+# 🧠 Apprendimento Automatico (A.A. 2025/26)
 
-## Status: 🏗️ In aggiornamento
+![Status: Finito](https://img.shields.io/badge/Status-%E2%9C%85%20Finito-success?style=for-the-badge)
 
-|Nr. | Titolo                                       | 👨‍🏫  | 📄 |
-|----|----------------------------------------------|-----|----|
-| 1  | Introduction                                 | ✅  | ✅ |
-| 2  | Model Selection and Evaluation               | ✅  | ✅ |
-| 3  | Linear Models                                | ✅  | ✅ |
-| 4  | Decision Trees                               | ❌  | ✅ |
-| 5  | Neural Networks                              | ❌  | ✅ |
-| 6  | Support Vector Machines                      | ✅  | ✅ |
-| 7  | Bayes Classifiers                            | ❌  | ✅ |
-| 8  | Ensemble Learning                            | ✅  | ✅ |
-| 9  | Clustering                                   | ❌  | ✅ |
-| 10 | Dimensionality Reduction and Metric Learning | ❌  | ✅ |
-| 11 | Feature Selection and Sparse Learning        | ❌  | ✅ |
-| 12 | Computational Learning Theory                | ❌  | ✅ |
-| 13 | Semi Supervised Learning                     | ❌  | ✅ |
-| 14 | Rule Learning                                | ❌  | ✅ |
+Questa repository raccoglie il materiale teorico rielaborato e le soluzioni pratiche sviluppate per il corso.
 
-👨‍🏫 = Appunti integrati con le lezioni
+---
 
-📄 = Appunti tradotti dalle slide
+## 📚 Materiale Didattico
+
+* 📄 **Slide e Dispense in LaTeX**
+    Le slide ufficiali del corso sono state interamente tradotte, revisionate e strutturate in LaTeX, integrando gli appunti presi direttamente a lezione per una trattazione più completa.
 
 ## 💻 Esercizi di Laboratorio
 
-Gli esercizi di laboratorio per questo corso sono disponibili nella seguente repository:
-[AlessandroZappatore/AAUT_exercises](https://github.com/AlessandroZappatore/AAUT_exercises)
+Il codice sorgente, i notebook e gli script relativi alle esercitazioni pratiche sono disponibili al seguente link:
+
+🔗 **[Repository GitHub degli esercizi](https://github.com/AlessandroZappatore/AAUT_exercises)**

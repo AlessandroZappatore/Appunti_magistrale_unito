@@ -12,8 +12,3 @@ Questa repository contiene il materiale didattico del corso, revisionato e strut
     Raccolta completa degli appunti presi a lezione, accuratamente rielaborati per renderli più scorrevoli, chiari e corretti.
 * 🧮 **`formulario_BDM.pdf`**
     Un documento riassuntivo contenente la raccolta di tutte le formule principali affrontate durante il corso, ideale per la preparazione e il ripasso.
-
----
-
-> [!CAUTION]
-> **ATTENZIONE:** All'interno degli appunti, il capitolo relativo ai **modelli probabilistici** è quasi completamente errato. Si raccomanda vivamente di **non studiare quella specifica parte** da questo documento!!!
